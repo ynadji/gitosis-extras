@@ -1,0 +1,4 @@
+== gitosis-extras ==
+a bunch of scripts that are useful for gitosis. i made
+it when i wanted to be able to (easily) set up post-receive
+hooks for my gitosis install on tyr.
